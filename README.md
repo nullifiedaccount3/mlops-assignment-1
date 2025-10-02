@@ -123,4 +123,6 @@ The models are evaluated using Mean Squared Error (MSE) on the test set. Lower M
 
 ## Author
 
+Bhargav Nanekalva (G24AI2066@iitj.ac.in)
+
 MLOps Assignment 1 - House Price Prediction
